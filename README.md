@@ -27,6 +27,7 @@ I am a passionate self-taught full stack developer and a cross platform mobile a
 <code><img height ="33" src ="https://github.com/Kshitiz1403/Kshitiz1403/blob/main/icons/express.png?raw=true"></code>
 <code><img height ="33" src ="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/mongodb/mongodb-original.svg"></code>
 <code><img height ="33" src ="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/mysql/mysql-original.svg"></code>
+<code><img height ="33" src ="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/flask/flask-original.svg"></code>
 <code><img height ="33" src="https://camo.githubusercontent.com/dd4b2422ed3bfc9da88c43d18550375c66f9584327dff7ecc19315ce50b96f07/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f66697265626173652f66697265626173652d69636f6e2e737667"></code>
 <code><img height ="33" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/amazonwebservices/amazonwebservices-original.svg"></code>
 <code><img height ="33" src ="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/javascript/javascript-original.svg"></code>
