@@ -22,6 +22,7 @@ I am a passionate self-taught full stack developer and a cross platform mobile a
 <!-- -->
 <code><img height ="33" src ="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/nodejs/nodejs-original.svg"></code>
 <code><img height ="33" src ="https://github.com/Kshitiz1403/Kshitiz1403/blob/main/icons/express.png?raw=true"></code>
+<code>[<img height ="33" src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/socketio/socketio-original.svg">](https://socket.io/)</code>
 <code><img height ="33" src ="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/mongodb/mongodb-original.svg"></code>
 <code><img height ="33" src ="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/react/react-original.svg"></code>
 <code><img height ="33" src ="https://github.com/Kshitiz1403/Kshitiz1403/blob/main/icons/react-native-logo.png?raw=true"></code>
