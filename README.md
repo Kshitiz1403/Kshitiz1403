@@ -39,8 +39,6 @@ I am a passionate self-taught full stack developer and a cross platform mobile a
 <code>[<img height ="33" src ="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/html5/html5-original.svg">](https://developer.mozilla.org/en-US/docs/Glossary/HTML5)</code>
 <code>[<img height ="33" src ="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/css3/css3-original.svg">](https://developer.mozilla.org/en-US/docs/Web/CSS)</code>
 <code>[<img height ="33" src ="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/bootstrap/bootstrap-original.svg">](https://getbootstrap.com/)</code>
-<code>[<img height ="33" src ="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/figma/figma-original.svg">](https://www.figma.com/)</code>
-<code>[<img height ="33" src ="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/git/git-original.svg">](https://git-scm.com/)</code>
 
 
 <h2 align="center">
