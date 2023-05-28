@@ -26,17 +26,17 @@ I am a passionate self-taught full stack developer and a cross platform mobile a
 <code>[<img height ="33" src ="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/nodejs/nodejs-original.svg">](https://nodejs.dev/)</code>
 <code>[<img height ="33" src ="https://github.com/Kshitiz1403/Kshitiz1403/blob/main/icons/express.png?raw=true">](https://expressjs.com/)</code>
 <code>[<img height ="33" src ="https://github.com/Kshitiz1403/Kshitiz1403/blob/main/icons/socketio.png">](https://socket.io/)</code>
-<code>[<img height ="33" src ="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/mongodb/mongodb-original.svg">](https://www.mongodb.com/)</code>
-<code>[<img height ="33" src ="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/react/react-original.svg">](https://reactjs.org/)</code>
-<code>[<img height ="33" src ="https://github.com/Kshitiz1403/Kshitiz1403/blob/main/icons/react-native-logo.png?raw=true">](https://reactnative.dev/)</code>
-<code>[<img height ="33" src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">](https://redux.js.org/)</code>
-<code>[<img height ="33" src ="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/redis/redis-original.svg">](https://redis.io/)</code>
-<code>[<img height ="33" src ="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/docker/docker-original.svg?raw=true">](https://www.docker.com/)</code>
 <code>[<img height ="33" src ="https://github.com/Kshitiz1403/Kshitiz1403/blob/main/icons/kafka.png?raw=true">](https://kafka.apache.org/)</code>
 <code>[<img height ="33" src ="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/postgresql/postgresql-original.svg">](https://www.postgresql.org/)</code>
 <code>[<img height ="33" src ="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/mysql/mysql-original.svg">](https://www.mysql.com/)</code>
-<code>[<img height ="33" src ="https://raw.githubusercontent.com/Kshitiz1403/Kshitiz1403/main/icons/expo.png">](https://expo.dev/)</code>
+<code>[<img height ="33" src ="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/mongodb/mongodb-original.svg">](https://www.mongodb.com/)</code>
+<code>[<img height ="33" src ="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/redis/redis-original.svg">](https://redis.io/)</code>
+<code>[<img height ="33" src ="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/docker/docker-original.svg?raw=true">](https://www.docker.com/)</code>
 <code>[<img height ="33" src ="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/flask/flask-original.svg">](https://flask.palletsprojects.com/)</code>
+<code>[<img height ="33" src ="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/react/react-original.svg">](https://reactjs.org/)</code>
+<code>[<img height ="33" src ="https://github.com/Kshitiz1403/Kshitiz1403/blob/main/icons/react-native-logo.png?raw=true">](https://reactnative.dev/)</code>
+<code>[<img height ="33" src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">](https://redux.js.org/)</code>
+<code>[<img height ="33" src ="https://raw.githubusercontent.com/Kshitiz1403/Kshitiz1403/main/icons/expo.png">](https://expo.dev/)</code>
 <code>[<img height ="33" src="https://camo.githubusercontent.com/dd4b2422ed3bfc9da88c43d18550375c66f9584327dff7ecc19315ce50b96f07/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f66697265626173652f66697265626173652d69636f6e2e737667">](https://firebase.google.com/)</code>
 <code>[<img height ="33" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/amazonwebservices/amazonwebservices-original.svg">](https://aws.amazon.com/)</code>
 <code>[<img height ="33" src="https://github.com/Kshitiz1403/Kshitiz1403/blob/main/icons/postman.png?raw=true">](https://www.postman.com/)</code>
