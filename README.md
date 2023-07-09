@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 ## **About Me :** 👦
 
-I am a passionate self-taught full stack developer and a cross platform mobile application developer from India. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the architecture and code quality of things I build.
+Hey there! I'm a self-taught full stack developer and cross-platform mobile app enthusiast hailing from the vibrant country of India. My passion for software knows no bounds, and I thrive on turning imaginative ideas into reality with delightful interfaces. I take great pride in crafting well-architected solutions and writing code that's as pristine as a freshly baked samosa.
 
 ## **Tech Stack :** :wrench:
 
