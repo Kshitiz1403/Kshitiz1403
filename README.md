@@ -52,6 +52,12 @@ Hey there! I'm a self-taught full stack developer and cross-platform mobile app 
 <code>[<img height ="33" src ="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/css3/css3-original.svg">](https://developer.mozilla.org/en-US/docs/Web/CSS)</code>
 <code>[<img height ="33" src ="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/bootstrap/bootstrap-original.svg">](https://getbootstrap.com/)</code>
 
+## **Currently Reading :** 📖:
+- Designing Data-Intensive Applications
+- HTTP: The Definitive Guide
+- Principles of Package Design
+
+
 <h2 align="center">
   My Github Stats<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 </h2>
