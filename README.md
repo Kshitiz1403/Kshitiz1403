@@ -46,7 +46,6 @@ Hey there! I'm a self-taught full stack developer and cross-platform mobile app 
 <code>[<img height ="33" src ="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-original.svg">](https://www.typescriptlang.org/)</code>
 <code>[<img height ="33" src ="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/javascript/javascript-original.svg">](https://www.javascript.com/)</code>
 <code>[<img height ="33" src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">](https://go.dev/)</code>
-
 <code>[<img height ="33" src ="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/python/python-original.svg">](https://www.python.org/)</code>
 <code>[<img height ="33" src ="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/cplusplus/cplusplus-original.svg">](https://www.cplusplus.com/)</code>
 <code>[<img height ="33" src ="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/java/java-original.svg">](https://www.java.com/)</code>
