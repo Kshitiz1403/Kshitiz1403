@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 
 # <div align="center"> Hi <img src = "https://user-images.githubusercontent.com/78593368/119226953-4de77600-bb29-11eb-8d16-9479fa967348.gif" width="55px" height="55px"/> I am Kshitiz Agrawal</div>
 
-## Stay tuned for a groundbreaking project that will revolutionize your media experience. Be part of the journey and collaborate with us at  [PureInfoApps](https://github.com/PureInfoApps) to shape the future of self-hosted media servers together!
-
 
 ## **About Me :** 👦
 
